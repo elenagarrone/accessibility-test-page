@@ -1,0 +1,52 @@
+body {
+    font-size: 16px;
+    font-family: arial, sans-serif;
+}
+
+.title {
+    text-transform: uppercase;
+}
+
+.section {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #8da0ff;
+    color: #ffffff;
+}
+
+.section-img {
+    margin-top: 15px;
+    text-align: center;
+}
+
+.dyslexia-section {
+    text-transform: uppercase;
+}
+
+.access {
+    position: absolute;
+    left: -100ex;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
+
+.btn-wrapper {
+    text-align: center;
+}
+
+.btn {
+    padding: 15px;
+    background-color: green;
+    display: inline-block;
+}
+
+.btn:first-child {
+    margin-right: 15px;
+}
+
+.btn a, .btn a:visited {
+    font-size: 12px;
+    color: #ffffff;
+    text-decoration: none;
+}
