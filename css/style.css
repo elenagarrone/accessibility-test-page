@@ -3,6 +3,11 @@ body {
     font-family: arial, sans-serif;
 }
 
+main {
+    width: 1000px;
+    margin: 0 auto;
+}
+
 .title {
     text-transform: uppercase;
 }
